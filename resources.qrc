@@ -1,8 +1,8 @@
 <RCC>
     <qresource prefix="/">
-        <file>icons/app-icon.png</file>
-        <file>icons/about-icon.png</file>
-        <file>icons/export-icon.png</file>
+        <file>Icons/app-icon.png</file>
+        <file>Icons/about-icon.png</file>
+        <file>Icons/export-icon.png</file>
         <file>LICENSE</file>
     </qresource>
 </RCC>

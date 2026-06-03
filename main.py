@@ -1,0 +1,2 @@
+import resources_rc
+import Architecture.app
